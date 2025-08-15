@@ -1,12 +1,14 @@
-{
-    "name": "Odesli-spicetify",
-    "description": "Spicetify extension to copy links to different platforms.",
-    "preview": "screenshots/copy_menu.png",
-    "main": "dist/odesli-spicetify.js",
-    "readme": "README.md",
-    "authors": [
-        { "name": "prochy-exe", "url": "https://github.com/prochy-exe" }
-    ],
-    "tags": ["odesli", "links", "share"],
-    "branch": "main"
-}
+[
+    {
+        "name": "Odesli-spicetify",
+        "description": "Spicetify extension to copy links to different platforms.",
+        "preview": "screenshots/copy_menu.png",
+        "main": "dist/odesli-spicetify.js",
+        "readme": "README.md",
+        "authors": [
+            { "name": "prochy-exe", "url": "https://github.com/prochy-exe" }
+        ],
+        "tags": ["odesli", "links", "share"],
+        "branch": "main"
+    }
+]
